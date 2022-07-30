@@ -1,6 +1,6 @@
 ﻿# Cross-species comparison of transcription factor binding revealed cistrome plasticity during plant evolution
 
-This is an introduction about the code used in this project. The scripts are all in the folder [bin](https://github.com/rensabella/GLK-project/tree/main/bin "bin").
+This is an introduction about the code we used in this project. The scripts are all in the folder [bin](https://github.com/rensabella/GLK-project/tree/main/bin "bin").
 
 
 # 1. GLK binding motif prediction
