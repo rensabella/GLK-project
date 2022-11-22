@@ -1,3 +1,5 @@
+## The Orthologous genes were found by blast, and the coverage behind genes were calcalated by bedtools multicov.
+
 for s1 in AT NB SL OS ZM
 do
 for s2 in AT NB SL OS ZM
